@@ -1,0 +1,8 @@
+*.o
+/.ca/build/Config_1/production/*.d
+/.ca/build/Config_1/production/mcc_generated_files/X2Cscope/*.d
+*.d
+buildLog
+.ca
+.generated_files
+production
